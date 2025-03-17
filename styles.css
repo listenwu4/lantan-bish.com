@@ -1,0 +1,314 @@
+
+html{
+	scroll-behavior: smooth;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: yellow;
+}
+
+body{
+	background-color: white;
+}
+
+.top{
+	overflow: hidden;
+	background-image: url("pic/1.jpg");
+	height: 850px;
+	width: 100%;
+}
+
+.toptop{
+	height: 30%;
+	width: 100%;
+}
+
+.photo1{
+	margin-top: 30px;
+	float:left;
+	height: 100%;
+	width:15%;
+}
+
+.ppp1{
+	float:right;
+	width:100px;
+	height:100px;
+	margin-right:20px;
+}
+
+.smallherf1{
+	margin-top:30px;
+	float:right;
+	margin-right:10%;
+	width:10%;
+	height:100px;
+	text-align:center;
+	line-height:40px;
+}
+
+.smooth{
+	color: white;
+	font-size:26px;
+	font-weight:bold;
+}
+
+#headline{
+	margin-top:90px;
+	text-align: center;
+	letter-spacing:1px;
+	font-size:55px;
+	color:rgb(245,245,245);
+}
+
+.second{
+	margin-left:auto;
+	margin-right:auto;
+	height:400px;
+	width:100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.content1{
+	margin-top:30px;
+	margin-left:auto;
+	margin-right:auto;
+	height:90%;
+	width:60%;
+}
+
+.jieshao{
+	margin-left:auto;
+	margin-right:auto;
+	float:left;
+	height:100%;
+	width:98%;
+}
+
+.title1{
+margin-left:auto;
+margin-right:auto;
+height:70px;
+width:70%;
+text-align:center;
+border: 1px solid;
+border-color:rgba(0,0,0,0);
+}
+
+.gongsiming{
+	margin-left:auto;
+	margin-right:auto;
+	font-size: 36px;
+	color:black;
+}
+
+#gongsijieshao{
+	font-size:24px;
+	line-height:37px;
+	text-indent: 2em;
+}
+
+#gongsijieshao3{
+	font-size:26px;
+	line-height:37px;
+	text-indent: 2em;
+}
+
+.third{
+background-image:url("pic/8.jpg");
+height:1050px;
+width:100%;
+}
+
+.title2{
+margin-left:auto;
+margin-right:auto;
+height:150px;
+width:70%;
+text-align:center;
+border: 1px solid;
+border-color:rgba(0,0,0,0);
+}
+
+#big{
+font-size:35px;
+}
+
+#big1{
+	color: black;
+	margin-top: 50px;
+    font-size: 36px;
+	line-height:70px;
+}
+
+#big4{
+font-size:35px;
+line-height:75px;
+}
+
+#big5{
+font-size:35px;
+line-height:75px;
+}
+
+#dark{
+	margin-top: 50px;
+    font-size: 36px;
+	line-height:70px;
+    color:rgb(255,255,255);
+}
+
+#dark4{
+font-size:35px;
+color:rgb(255,255,255);
+line-height:83px;
+}
+
+.content2{
+	margin-left:auto;
+	margin-right:auto;
+	height:84%;
+	width:90%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.left{
+    float: left;
+	height:95%;
+	width:48%;
+}
+
+.right{
+    float: left;
+    margin-left: 3%;
+	height:95%;
+	width:48%;
+}
+
+.zuo{
+	margin-left: 1%;
+	margin-top: 1%;
+	height:48%;
+	width:98%;
+}
+
+.circle{
+	position: relative;
+    top: 20px;
+    border-radius: 3%;
+	height:90%;
+	width:100%;
+	background-image: url("pic/6.jpg");
+}
+
+.circle1{
+	position: relative;
+    top: 20px;
+    border-radius: 3%;
+	height:90%;
+	width:100%;
+	background-image: url("pic/61.jpg");
+}
+
+.ppp{
+	overflow:hidden;
+	position: absolute;
+	top: 10%;
+	left: 5%;
+	width:300px;
+	height:300px;
+	border-radius: 5%;
+	background-color: white;
+}
+
+.ppp2{
+	overflow:hidden;
+	position: absolute;
+	top: 10%;
+	right: 5%;
+	width:300px;
+	height:300px;
+	border-radius: 5%;
+	background-color: white;
+}
+
+.text{
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	font-size: 20px;
+	color:rgb(255,255,255);
+}
+
+.text1{
+	position: absolute;
+	left: 15%;
+	top: 30%;
+	font-size: 20px;
+	color:rgb(255,255,255);
+}
+
+.fifth{
+	height:350px;
+	width:100%;
+	background-image: url("pic/5.jpg");
+}
+
+.ppp3{
+height:100%;
+width:100%;
+box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.title3{
+margin-left:auto;
+margin-right:auto;
+height:30%;
+width:70%;
+text-align:center;
+border: 1px solid;
+border-color:rgba(0,0,0,0);
+}
+
+.content3{
+	margin-left:auto;
+	margin-right:auto;
+	height:50%;
+	width:80%;
+	justify-content: space-between;
+}
+
+.show{
+	float: left;
+	height: 35%;
+	width: 30%;
+	margin: 5% 1.5%;
+	font-size: 26px;
+}
+
+.mark{
+	font-size:26px;
+	color: white;
+	line-height: 55px;
+	padding-left: 20px;
+}
+
+.last{
+	border: 1px solid rgb(3, 66, 180);
+	background-color:rgb(3, 66, 180);
+	height:55px;
+	width:99.9%;
+}
+
+.renzhen{
+	color:white;
+	line-height: 30px;
+	text-align:center;
+	font-size:14px;
+}
