@@ -242,7 +242,7 @@ line-height:83px;
 	position: absolute;
 	left: 60%;
 	top: 30%;
-	font-size: 20px;
+	font-size: 14px;
 	color:rgb(255,255,255);
 }
 
@@ -250,7 +250,7 @@ line-height:83px;
 	position: absolute;
 	right: 60%;
 	top: 30%;
-	font-size: 20px;
+	font-size: 14px;
 	color:rgb(255,255,255);
 }
 
@@ -305,7 +305,7 @@ border-color:rgba(0,0,0,0);
 	height: 35%;
 	width: 30%;
 	margin: 5% 1.5%;
-	font-size: 19px;
+	font-size: 21px;
 }
 
 .mark{
