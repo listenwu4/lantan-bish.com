@@ -114,8 +114,8 @@ border-color:rgba(0,0,0,0);
 }
 
 #gongsijieshao3{
-	font-size:19px;
-	line-height:23px;
+	font-size:24px;
+	line-height:34px;
 	text-indent: 2em;
 }
 
@@ -258,7 +258,7 @@ line-height:83px;
 	position: absolute;
 	left: 55%;
 	top: 25%;
-	font-size: 16px;
+	font-size: 14px;
 	color:rgb(255,255,255);
 }
 
@@ -266,7 +266,7 @@ line-height:83px;
 	position: absolute;
 	left: 10%;
 	top: 25%;
-	font-size: 16px;
+	font-size: 14px;
 	color:rgb(255,255,255);
 }
 
@@ -305,7 +305,7 @@ border-color:rgba(0,0,0,0);
 	height: 35%;
 	width: 30%;
 	margin: 5% 1.5%;
-	font-size: 26px;
+	font-size: 19px;
 }
 
 .mark{
