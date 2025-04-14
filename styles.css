@@ -18,6 +18,8 @@ body{
 .top{
 	overflow: hidden;
 	background-image: url("pic/1.jpg");
+	background-size: cover;
+    background-position: center;
 	height: 850px;
 	width: 100%;
 }
@@ -36,8 +38,8 @@ body{
 
 .ppp1{
 	float:right;
-	width:100px;
-	height:100px;
+	width:100%;
+	height:auto;
 	margin-right:20px;
 }
 
@@ -121,6 +123,8 @@ border-color:rgba(0,0,0,0);
 
 .third{
 background-image:url("pic/8.jpg");
+background-size: cover;
+background-position: center;
 height:1050px;
 width:100%;
 }
@@ -205,6 +209,8 @@ line-height:83px;
 	height:90%;
 	width:100%;
 	background-image: url("pic/6.jpg");
+	background-size: cover;
+    background-position: center;
 }
 
 .circle1{
@@ -214,6 +220,8 @@ line-height:83px;
 	height:90%;
 	width:100%;
 	background-image: url("pic/61.jpg");
+	background-size: cover;
+    background-position: center;
 }
 
 .ppp{
@@ -258,6 +266,8 @@ line-height:83px;
 	height:350px;
 	width:100%;
 	background-image: url("pic/5.jpg");
+	background-size: cover;
+    background-position: center;
 }
 
 .ppp3{
